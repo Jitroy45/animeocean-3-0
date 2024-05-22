@@ -1,6 +1,6 @@
 # AnimeOcean 3.0 Discord Bot
 
-![AnimeOcean 3.0 Banner](https://yourimageurl.com/banner.png)
+![AnimeOcean 3.0 Banner](https://i.pinimg.com/1200x/a9/2f/04/a92f041ada437245d289f53b8ae0a1bb.jpg)
 
 ## 🌊 AnimeOcean 3.0 - Dive into the World of Anime! 🌊
 
